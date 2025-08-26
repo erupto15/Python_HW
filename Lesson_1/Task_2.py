@@ -1,2 +1,4 @@
-my_age = ('27')
-print(my_age)
+my_age = 27
+def age():
+    print(my_age)
+age()
