@@ -1,8 +1,10 @@
-first_name = ("Владислав")
-last_name = ("Шевченко")
-full_name = first_name + " " + last_name
+def first_name():
+    print('Владислав')
+def last_name ():
+    print('Шевченко')
 
-print(full_name)
+first_name()
+last_name()
 
 
 
