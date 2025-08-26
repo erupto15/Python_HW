@@ -1,2 +1,1 @@
-my_age = 27
-print(my_age)
+print("меня зовут Влад")
