@@ -1,10 +1,7 @@
-def first_name():
-    print('Владислав')
-def last_name ():
-    print('Шевченко')
+first_name = input('Владислав')
+last_name = input('Шевченко')
 
-first_name()
-last_name()
+print('Вас зовут:' + last_name, first_name)
 
 
 
