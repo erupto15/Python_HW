@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cdbf455-f45c-4147-8ab4-7dde80474438" name="Changes" comment="Lesson_2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "erupto15"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/erupto15/Python_HW.git",
+    "accountId": "a8951883-f7ed-4231-9c77-0ef3bd3f9ed5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="31ld2H3fymHQON3IDniMDGGumgj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Lesson_2.executor": "Run",
+    "Python.Lesson_2_task_4.executor": "Run",
+    "Python.Lesson_2_task_5.executor": "Run",
+    "Python.Lesson_2_task_6.executor": "Run",
+    "Python.Lesson_2_task_7.executor": "Run",
+    "Python.Task_1.executor": "Run",
+    "Python.Task_2.executor": "Run",
+    "Python.Task_3.executor": "Run",
+    "Python.Task_4.executor": "Run",
+    "Python.Task_5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "/Users/vladik/Desktop/python/Python_HW"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Lesson_3.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_3/Lesson_3.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cdbf455-f45c-4147-8ab4-7dde80474438" name="Changes" comment="" />
+      <created>1756102384318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756102384318</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756102818358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756102818358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756103106968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756103106968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756139397466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756139397466</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756141479073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756141479073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756141818956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756141818956</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756142838686</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756142838686</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756142952108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756142952108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756142996322</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756142996322</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756223283340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756223283340</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756226512953</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756226512953</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756226988642</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756226988642</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756233194201</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756233194201</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1756233771495</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756233771495</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1757440285135</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757440285135</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1757441710858</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757441710858</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757446486873</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757446486873</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757446500440</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757446500440</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757608431714</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757608431714</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757609928063</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757609928063</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757610856462</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1757610856462</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757611487515</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1757611487515</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757612132063</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1757612132063</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757711960835</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1757711960835</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_1" />
+    <MESSAGE value="Lesson_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_2" />
+  </component>
+</project>
