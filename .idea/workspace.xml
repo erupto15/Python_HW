@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cdbf455-f45c-4147-8ab4-7dde80474438" name="Changes" comment="Lesson_2" />
+    <list default="true" id="0cdbf455-f45c-4147-8ab4-7dde80474438" name="Changes" comment="Lesson_2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson_2" />
+        <entry key="$PROJECT_DIR$" value="Lesson_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +58,7 @@
     "Python.Lesson_2_task_5.executor": "Run",
     "Python.Lesson_2_task_6.executor": "Run",
     "Python.Lesson_2_task_7.executor": "Run",
+    "Python.Lesson_3.1.executor": "Debug",
     "Python.Task_1.executor": "Run",
     "Python.Task_2.executor": "Run",
     "Python.Task_3.executor": "Run",
@@ -63,6 +66,7 @@
     "Python.Task_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Lesson__3",
     "last_opened_file_path": "/Users/vladik/Desktop/python/Python_HW"
   }
 }]]></component>
@@ -289,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757711960835</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1757759590931</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757759590931</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
