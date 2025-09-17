@@ -26,6 +26,6 @@ class User:
 
 # Пример использования:
 user = User("Иван", "Иванов")
-print(f"Имя: {user.first_name}")    # Выведет: Имя: Иван
-print(f"Фамилия: {user.last_name}") # Выведет: Фамилия: Иванов
+user.first_name()
+user.last_name()      # Выведет: Фамилия: Иванов
 user.full_name()                   # Выведет: Полное имя: Иван Иванов

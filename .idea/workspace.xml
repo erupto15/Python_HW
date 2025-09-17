@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cdbf455-f45c-4147-8ab4-7dde80474438" name="Changes" comment="Lesson_2">
-      <change afterPath="$PROJECT_DIR$/03_lesson/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_lesson/Task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_1/Task_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_1/Task_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_1/Task_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_1/Task_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_1/Task_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/Lesson_2_task_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/Lesson_2_task_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/Lesson_2_task_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/Lesson_2_task_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/Task_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_lesson/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_lesson/Task_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757759711328</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lesson_2">
+      <option name="closed" value="true" />
+      <created>1758132949837</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1758132949837</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
