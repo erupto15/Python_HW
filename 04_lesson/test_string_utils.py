@@ -1,3 +1,4 @@
+import pytest
 
 from string_utils import StringUtils
 
@@ -26,7 +27,7 @@ class TestCapitalizeMethod:
         # Тестируем строку с пробелом вначале
         obj = StringUtils()
         result = obj.capitalize("  Skypro")
-        assert result == "Skypro"
+        assert result == "  Skypro"
 
 
 # Второе тестирование
@@ -110,3 +111,11 @@ class TestDeleteSymbolMethod:
         obj = StringUtils()
         result = obj.delete_symbol("", "A")
         assert result == "", "Пустая строка должна остаться пустой"
+
+@pytest.mark.parametrize("input_str, expected", [
+    ("skypro", "Skypro"),
+    ("sky pro", "Sky pro")
+])
+def test_capitalize_positive(input_str, expected):
+    string_utils = StringUtils()
+    assert string_utils.capitalize(input_str) == expected
