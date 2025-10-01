@@ -24,8 +24,8 @@ def main():
             password_field = driver.find_element(By.ID, "password")
 
             # Ввод данных
-            username_field.send_keys("Window_5")
-            password_field.send_keys("12345!")
+            username_field.send_keys("tomsmith")
+            password_field.send_keys("SuperSecretPassword!")
 
             # Поиск и клик по кнопке входа
             login_button = driver.find_element(By.CSS_SELECTOR, "button[type='submit']")
