@@ -23,7 +23,7 @@ def main():
             # Поиск кнопки по классу (так как ID динамический)
             button = driver.find_element(By.CLASS_NAME, "btn-primary")
 
-            # Проверка наличия кнопки
+            # Проверка работы кнопки
             if button:
                 # Клик по кнопке
                 button.click()
@@ -31,8 +31,8 @@ def main():
             # Ждем несколько секунд для визуального подтверждения
             time.sleep(5)
 
-        except Exception as e:
-            print(f"Произошла ошибка: {str(e)}")
+        except Exception as error:
+            print(f"Произошла ошибка: {str(error)}")
 
     finally:
         # Закрытие браузера
