@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Инициализация драйвера (укажите путь к вашему веб-драйверу)
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(executable_path='path/to/chromedriver')
 
 # Переход на сайт
 driver.get('https://bonigarcia.dev/selenium-webdriver-java/loading-images.html')
