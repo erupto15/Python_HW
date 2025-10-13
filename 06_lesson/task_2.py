@@ -8,7 +8,7 @@ import time
 driver = webdriver.Chrome()
 
 #Шаг 1. Переходим на страницу сайта
-driver.get('http://uitestingplayground.com/ajax')
+driver.get('http://uitestingplayground.com/textinput')
 
 # Шаг 2: Ввод текста в поле
 input_field = WebDriverWait(driver, 10).until(
@@ -31,5 +31,4 @@ updated_button_text = WebDriverWait(driver, 10).until(
 print(f"Текст кнопки после обновления: {updated_button_text}")
 assert updated_button_text == "SkyPro"
 
-sleep(5)
 driver.quit()
