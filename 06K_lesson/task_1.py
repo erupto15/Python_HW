@@ -75,5 +75,3 @@ class TestFormFilling(unittest.TestCase):
         # Закрытие браузера
         self.driver.quit()
 
-if __name__ == "__main__":
-    unittest.main()
