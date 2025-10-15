@@ -1,5 +1,3 @@
-# test_01_form.py
-
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -53,7 +51,7 @@ class TestFormFilling(unittest.TestCase):
         self.driver.find_element(By.NAME, "submit").click()
 
         # Дожидаемся валидации
-        WebDriverWait(self.driver, 20).until(
+        WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located((By.NAME, "zipcode"))
         )
 
