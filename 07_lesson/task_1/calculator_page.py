@@ -26,11 +26,11 @@ class CalculatorPage:
 
     def click_plus(self):
         # нажатие кнопки плюс
-        self.driver.find_element(*self.button_plus).click()
+        self.driver.find_element(self.click_plus).click()
 
     def click_eight(self):
         # Нажатие кнопки 8
-        self.driver.find_element(*self.button_8).click()
+        self.driver.find_element(self.button_8).click()
 
     def click_equals(self):
         # Нажатие кнопки
