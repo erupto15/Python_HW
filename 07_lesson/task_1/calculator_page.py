@@ -38,7 +38,9 @@ class CalculatorPage:
 
     def get_result(self):
         """Получение результата с ожиданием"""
-        self.wait.until(
+        result_element = self.wait.until(
             EC.text_to_be_present_in_element(self.result_screen, "15")
         )
+
+
         return self.driver.find_element(*self.result_screen).text
