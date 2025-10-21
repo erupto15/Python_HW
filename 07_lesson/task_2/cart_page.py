@@ -16,3 +16,21 @@ class CartPage:
         # Для проверки содержимого корзины (опционально)
         locator = (By.CLASS_NAME, "cart_item")
         return self.driver.find_elements(*locator)
+
+    def get_cart_count(self):
+        # Получить количество товаров в корзине. Возвращает целое число
+        items = self.get_cart_items()
+        return len(items)
+
+    def is_empty(self):
+        """
+        Проверить, пуста ли корзина.
+        Возвращает True, если товаров нет.
+        """
+        try:
+            self.wait.until(EC.invisibility_of_element_located((By.CLASS_NAME, "cart_item")))
+            return True
+        except:
+            return len(self.get_cart_items()) == 0
+
+
