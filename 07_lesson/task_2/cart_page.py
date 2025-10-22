@@ -17,9 +17,10 @@ class CartPage:
         locator = (By.CLASS_NAME, "cart_item")
         return self.driver.find_elements(*locator)
 
-    def get_cart_count(self):
-        # Получить количество товаров в корзине. Возвращает целое число
-        items = self.get_cart_items()
+    def get_cart_items_count(self):
+        """Получить количество товаров в корзине"""
+        locator = (By.CLASS_NAME, "cart_item")
+        items = self.wait.until(EC.presence_of_all_elements_located(locator))
         return len(items)
 
     def is_empty(self):

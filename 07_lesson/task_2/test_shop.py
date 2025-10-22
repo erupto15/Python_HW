@@ -37,8 +37,9 @@ class TestShopFlow(unittest.TestCase):
 
         # 3. Переход в корзину и проверка товаров
         inventory_page.go_to_cart()
-        cart_items = self.driver.find_elements(By.CLASS_NAME, "cart_item")
-        self.assertEqual(len(cart_items), 3, "В корзине должно быть 3 товара")
+        cart_page = CartPage(self.driver)
+        item_count = cart_page.get_cart_items_count()
+        self.assertEqual(item_count, 3, "В корзине должно быть 3 товара")
 
         # 4. Checkout
         cart_page = CartPage(self.driver)
@@ -54,6 +55,7 @@ class TestShopFlow(unittest.TestCase):
         checkout_page.click_continue()
 
         # 6. Проверка итоговой суммы
+        self.wait.until(EC.url_contains("checkout-step-two"))
         total_price = checkout_page.get_total_price()
         expected_total = "$58.29"
 
